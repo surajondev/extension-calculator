@@ -13,6 +13,10 @@ The project is for the tutorial purpose regarding **How to create google chrome 
 ### Read the article
 Blog : [Create a Chrome Extension with HTML, CSS, and JavaScript](https://daily.dev/blog/create-chrome-extension-with-html-css-and-javascript)
 
+# ScreenShot
+
+<img src="https://assets.website-files.com/5e0f1144930a8bc8aace526c/602fdc9a8ec01a8479d610cd_calculator.png">
+
 # Installation
 
 - Clone this project `git clone `
